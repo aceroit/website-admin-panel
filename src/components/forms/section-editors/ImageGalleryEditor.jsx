@@ -35,7 +35,6 @@ const ImageGalleryEditor = ({ value = {}, onChange, form }) => {
         >
           <SimpleRichTextEditor
             placeholder="e.g., At Acero Building Systems, we combine global presence with precision-driven processes..."
-           
           />
         </Form.Item>
 
